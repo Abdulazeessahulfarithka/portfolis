@@ -1,7 +1,7 @@
 import Bike from "../assets/projects/Bikerental.jpg";
 import Online from "../assets/projects/Onlineshopping.jpg";
 import pizza from "../assets/projects/pizza.webp";
-import Dashboard from "../assets/projects/Dashboard.png";
+import Inventory from "../assets/projects/Dashboard.png";
 
 export const data = [
   {
@@ -24,17 +24,20 @@ export const data = [
   },
   {
     id: 3,
-    name: "pizzas",
+    name: "pizza",
     image: pizza,
     github: "https://github.com/Abdulazeessahulfarithka/pizza-frontend",
     backend: "https://github.com/Abdulazeessahulfarithka/pizza-backend",
-    live: "https://app.netlify.com/sites/moonlit-marigold-566227/overview",
+    live: "https://moonlit-marigold-566227.netlify.app/",
   },
   {
     id: 4,
-    name: "Ecommerce App(MERN)",
-    image: Dashboard,
-    github: "https://github.com/Abdulazeessahulfarithka/student-teacher",
-    live: "https://papaya-crisp-c7c5e5.netlify.app/",
+    name: "Inventory",
+    image: Inventory,
+    github:
+      "https://github.com/Abdulazeessahulfarithka/inventory-bill-frontend",
+    backend:
+      "https://github.com/Abdulazeessahulfarithka/inventory-bill-backend",
+    live: "https://astounding-faun-76e1c2.netlify.app/",
   },
 ];

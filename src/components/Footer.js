@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="w-full flex justify-center items-center">
         <a
           className="text-gray-300 px-3 hover:text-blue-600"
-          href="https://www.linkedin.com/in/boobalan08"
+          href="https://www.linkedin.com/in/abdul-azeez-949927231/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -15,7 +15,7 @@ const Footer = () => {
         </a>
         <a
           className="text-gray-300 px-3 hover:text-gray-600"
-          href="https://github.com/boobalan08"
+          href="https://github.com/Abdulazeessahulfarithka"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -24,7 +24,7 @@ const Footer = () => {
       </div>
       <div className="p-5">
         <p className="text-center text-xl text-gray-200 font-bold">
-          Copyright © 2022 All rights reserved
+          Copyright © 2023 All rights reserved
         </p>
       </div>
     </footer>
