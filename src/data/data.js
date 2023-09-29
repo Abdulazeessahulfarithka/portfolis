@@ -1,7 +1,7 @@
 import Bike from "../assets/projects/Bikerental.jpg";
 import Online from "../assets/projects/Onlineshopping.jpg";
-import pizza from "../assets/projects/pizza.webp";
-import Inventory from "../assets/projects/Dashboard.png";
+import DashBoard from "../assets/projects/Listapp.png";
+import Inventory from "../assets/projects/Inventory.png";
 
 export const data = [
   {
@@ -24,11 +24,11 @@ export const data = [
   },
   {
     id: 3,
-    name: "pizza",
-    image: pizza,
-    github: "https://github.com/Abdulazeessahulfarithka/pizza-frontend",
-    backend: "https://github.com/Abdulazeessahulfarithka/pizza-backend",
-    live: "https://moonlit-marigold-566227.netlify.app/",
+    name: "DashBoard",
+    image: DashBoard,
+    github:
+      "https://github.com/Abdulazeessahulfarithka/student-teacher-dashboard",
+    live: "https://lively-sunshine-ed548b.netlify.app/",
   },
   {
     id: 4,
