@@ -7,9 +7,7 @@ const Home = () => {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <h4 className="text-pink-600 text-2xl">Hi, my name is</h4>
-        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">
-          Abdul
-        </h1>
+        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6]">Abdul</h1>
         <h2 className="text-3xl sm:text-7xl font-bold text-[#8892b0]">
           I'm a MERN Stack Developer.
         </h2>
@@ -20,7 +18,7 @@ const Home = () => {
         <div className="rounded-md shadow">
           <button className="flex items-center justify-center w-50 p-4 text-base font-medium text-white bg-pink-500 rounded-md hover:bg-pink-600">
             <a
-              href="https://drive.google.com/file/d/1RaR8VsNaX3N2w9udkFU1MtlygysIe-DP/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1RaR8VsNaX3N2w9udkFU1MtlygysIe-DP/view?usp=sharing"
               download={resume}
               target="_blank"
               rel="noopener noreferrer"
