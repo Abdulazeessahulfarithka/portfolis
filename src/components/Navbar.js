@@ -11,9 +11,7 @@ const Navbar = () => {
 
   return (
     <div className="fixed w-full h-[70px] flex justify-between items-center px-4 bg-[#0a192f] border-b-2 border-b-sky-800 text-gray-300">
-      <div>
-        <img src={Logo} alt="img" style={{ width: "200px" }} />
-      </div>
+      <div>{/* <img src={Logo} alt="img" style={{ width: "200px" }} /> */}</div>
 
       {/* menu */}
       <ul className="hidden md:flex">
@@ -116,7 +114,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://drive.google.com/file/d/1RaR8VsNaX3N2w9udkFU1MtlygysIe-DP/view?usp=sharing"
+              href="https://drive.google.com/file/d/1iIlPdskR7pm0-9WbBnblTZdkrYBsMCgM/view?usp=sharing"
               target="_blank"
             >
               Resume <BsFillPersonLinesFill size={30} />

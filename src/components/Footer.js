@@ -24,7 +24,7 @@ const Footer = () => {
       </div>
       <div className="p-5">
         <p className="text-center text-xl text-gray-200 font-bold">
-          Copyright © 2023 All rights reserved
+          Copyright © 2024 All rights reserved
         </p>
       </div>
     </footer>
